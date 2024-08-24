@@ -25,4 +25,8 @@ public class CrudDemoApplication {
 		return "HEllo World";
 	}
 	
+	public void m4() {
+		System.out.println("ALL THE BEST!!!");
+	}
+	
 }
