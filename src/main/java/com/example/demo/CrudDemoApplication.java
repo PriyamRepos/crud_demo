@@ -8,13 +8,7 @@ public class CrudDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudDemoApplication.class, args);
-		System.out.println("Hello World");
-
-		System.out.println("KARTHIK-Branch");
-		
-		
-
-		System.out.println("MASTER BRANCH");
+	
 
 	}
 
