@@ -16,4 +16,10 @@ public class CrudDemoApplication {
 		
 	}
 
+	public void m2() {
+	System.out.println("Priyam's-code");	
+		
+	}
+	
+	
 }
