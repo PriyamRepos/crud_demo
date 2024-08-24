@@ -7,9 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CrudDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudDemoApplication.class, args);
-	
+		SpringApplication.run(CrudDemoApplication.class, args);   
 
+	}
+	
+	public void m1() {
+	System.out.println("Karthik's-code");	
+		
 	}
 
 }
