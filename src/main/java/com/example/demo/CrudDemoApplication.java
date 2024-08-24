@@ -21,5 +21,8 @@ public class CrudDemoApplication {
 		
 	}
 	
+	public String m3() {
+		return "";
+	}
 	
 }
