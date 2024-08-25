@@ -12,4 +12,11 @@ public class CrudDemoApplication {
 	}
 	
 	
+	public int show() {
+		System.out.println("show method chnages done by priyam ");
+		return 0;
+	}
+	
+	
+	
 }
