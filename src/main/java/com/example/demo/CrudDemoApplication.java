@@ -11,22 +11,5 @@ public class CrudDemoApplication {
 
 	}
 	
-	public void m1() {
-	System.out.println("Karthik's-code");	
-		
-	}
-
-	public void m2() {
-	System.out.println("Priyam's-code");	
-		
-	}
-	
-	public String m3() {
-		return "HEllo World";
-	}
-	
-	public void m4() {
-		System.out.println("ALL THE BEST!!!");
-	}
 	
 }
